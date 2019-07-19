@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2c076c3-3b4c-4d9e-af04-f0fd16efb890" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RentalAgreement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-118">
+              <caret line="96" column="64" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#printCheckout#0;class#RentalAgreement#0" />
+                <element signature="method#findLaborDay#0;class#RentalAgreement#0" />
+                <element signature="method#findObservanceDay#0;class#RentalAgreement#0" />
+                <element signature="method#numHolidays#0;class#RentalAgreement#0" />
+                <element signature="method#numWeekendDays#0;class#RentalAgreement#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RentalAgreementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type</find>
+      <find>plus</find>
+      <find>minus</find>
+      <find>Syste</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/RentalAgreementTest.java" />
+        <option value="$PROJECT_DIR$/src/RentalAgreement.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="439" />
+    <option name="y" value="23" />
+    <option name="width" value="942" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardinalFinancial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardinalFinancial" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardinalFinancial" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardinalFinancial" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardinalFinancial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardinalFinancial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RentalAgreement.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="junit-3.8.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="junit-3.8.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CardinalFinancial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="junit-3.8.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.RentalAgreementTest.testCheckout4">
+    <configuration name="RentalAgreementTest.testCheckout1" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardinalFinancial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RentalAgreementTest" />
+      <option name="METHOD_NAME" value="testCheckout1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalAgreementTest.testCheckout2" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardinalFinancial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RentalAgreementTest" />
+      <option name="METHOD_NAME" value="testCheckout2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalAgreementTest.testCheckout3" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardinalFinancial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RentalAgreementTest" />
+      <option name="METHOD_NAME" value="testCheckout3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalAgreementTest.testCheckout4" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardinalFinancial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RentalAgreementTest" />
+      <option name="METHOD_NAME" value="testCheckout4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalAgreementTest.testCheckout5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardinalFinancial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RentalAgreementTest" />
+      <option name="METHOD_NAME" value="testCheckout5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.RentalAgreementTest.testCheckout4" />
+        <item itemvalue="Android JUnit.RentalAgreementTest.testCheckout1" />
+        <item itemvalue="Android JUnit.RentalAgreementTest.testCheckout2" />
+        <item itemvalue="Android JUnit.RentalAgreementTest.testCheckout3" />
+        <item itemvalue="JUnit.RentalAgreementTest.testCheckout5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2c076c3-3b4c-4d9e-af04-f0fd16efb890" name="Default Changelist" comment="" />
+      <created>1563296686369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563296686369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RentalAgreementTest_testCheckout3 - 2019.07.19 at 18h 04m 30s.xml">
+      <configuration name="RentalAgreementTest.testCheckout3" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout1 - 2019.07.19 at 18h 04m 54s.xml">
+      <configuration name="RentalAgreementTest.testCheckout1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout1 - 2019.07.19 at 19h 38m 40s.xml">
+      <configuration name="RentalAgreementTest.testCheckout1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout2 - 2019.07.19 at 19h 38m 48s.xml">
+      <configuration name="RentalAgreementTest.testCheckout2" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout6 - 2019.07.19 at 19h 39m 37s.xml">
+      <configuration name="RentalAgreementTest.testCheckout6" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout5 - 2019.07.19 at 19h 39m 47s.xml">
+      <configuration name="RentalAgreementTest.testCheckout5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout3 - 2019.07.19 at 19h 39m 56s.xml">
+      <configuration name="RentalAgreementTest.testCheckout3" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout2 - 2019.07.19 at 19h 40m 06s.xml">
+      <configuration name="RentalAgreementTest.testCheckout2" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout1 - 2019.07.19 at 19h 40m 13s.xml">
+      <configuration name="RentalAgreementTest.testCheckout1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RentalAgreementTest_testCheckout4 - 2019.07.19 at 19h 40m 26s.xml">
+      <configuration name="RentalAgreementTest.testCheckout4" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="439" y="23" width="942" height="707" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.37886178" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41300812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.093333334" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CardinalFinancial$RentalAgreementTest_testCheckout2.ic" NAME="RentalAgreementTest.testCheckout2 Coverage Results" MODIFIED="1563549025375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/RentalAgreementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RentalAgreement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="96" column="64" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printCheckout#0;class#RentalAgreement#0" />
+            <element signature="method#findLaborDay#0;class#RentalAgreement#0" />
+            <element signature="method#findObservanceDay#0;class#RentalAgreement#0" />
+            <element signature="method#numHolidays#0;class#RentalAgreement#0" />
+            <element signature="method#numWeekendDays#0;class#RentalAgreement#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
